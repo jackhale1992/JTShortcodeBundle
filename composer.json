@@ -1,5 +1,5 @@
 {
-    "name": "jt/shortcode-bundle",
+    "name": "leanhhoaivui/shortcode-bundle",
     "description": "Bundle that provides a Twig filter to support WordPress-like shortcodes.",
     "keywords": ["shortcode"],
     "type": "symfony-bundle",
