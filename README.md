@@ -18,7 +18,7 @@ Add JTShortcodeBundle in your composer.json:
 ```
 {
     "require": {
-        "jt/shortcode-bundle": "dev-master"
+        "leanhhoaivui/shortcode-bundle": "dev-master"
     }
 }
 ```
