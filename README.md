@@ -33,7 +33,7 @@ public function registerBundles()
 {
     $bundles = array(
         // ...
-        new JT\Bundle\ShortcodeBundle\MWShortcodeBundle(),
+        new JT\Bundle\ShortcodeBundle\JTShortcodeBundle(),
     );
 }
 ```
